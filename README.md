@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Parth Yadav 👋
 
-<!--
-**legzod/legzod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Computer Science Student at NIET, Greater Noida.
 
-Here are some ideas to get you started:
+💻 Currently learning programming and exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Learning C Programming, HTML and CSS.
+- 🔭 Building my first web development projects.
+- 🧠 Interested in open-source contributions and software development.
+- 🎯 Working towards opportunities like Google Summer of Code (GSoC).
+- 📚 Focused on improving my technical and problem-solving skills.
+
+### 🛠️ Technologies
+
+- HTML
+- CSS
+- C Programming
+
+### 📌 Current Project
+
+**College Cafeteria Website**
+
+A front-end website built using HTML and CSS. Currently under development.
+
+### 📫 Connect With Me
+
+- GitHub: [@legzod](https://github.com/legzod)
+
+---
+
+*Learning, building, and improving one project at a time.*
